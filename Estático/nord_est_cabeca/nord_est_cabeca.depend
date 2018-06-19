@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526148588 source:c:\users\rodrigo\desktop\aed-1\nord_est_cabeca\nord_est_cabeca.c
+	"nord_est_cabeca.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526149033 c:\users\rodrigo\desktop\aed-1\nord_est_cabeca\nord_est_cabeca.h
+	"nord_est_cabeca.h"
+
+1526148440 source:c:\users\rodrigo\desktop\aed-1\nord_est_cabeca\user.c
+	"nord_est_cabeca.h"
+	<stdio.h>
+	<stdlib.h>
+

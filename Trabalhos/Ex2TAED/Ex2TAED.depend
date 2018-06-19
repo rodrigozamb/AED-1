@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1525720300 source:c:\users\rodrigo\desktop\aed-1\ex2taed\ex2taed.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex2TAED.h"
+
+1525719717 c:\users\rodrigo\desktop\aed-1\ex2taed\ex2taed.h
+	"Ex2TAED.h"
+
+1525719730 source:c:\users\rodrigo\desktop\aed-1\ex2taed\user.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex2TAED.h"
+
+1525720300 source:c:\users\rodrigo\desktop\trabalho aed\ex2taed\ex2taed.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex2TAED.h"
+
+1525719717 c:\users\rodrigo\desktop\trabalho aed\ex2taed\ex2taed.h
+	"Ex2TAED.h"
+
+1526228714 source:c:\users\rodrigo\desktop\trabalho aed\ex2taed\user.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex2TAED.h"
+

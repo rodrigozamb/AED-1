@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1526228869 source:c:\users\rodrigo\desktop\trabalho aed\ex3taed\ex3taed.c
+	"Ex3TAED.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526382523 c:\users\rodrigo\desktop\trabalho aed\ex3taed\ex3taed.h
+	"Ex3TAED.h"
+	<stdio.h>
+
+1526228921 source:c:\users\rodrigo\desktop\trabalho aed\ex3taed\user.c
+	"Ex3TAED.h"
+	<stdio.h>
+	<stdlib.h>
+

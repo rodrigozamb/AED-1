@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1528221652 source:c:\users\rodrigo\desktop\aed-1\pilha_padrao\pilha_padrao.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha_padrao.h"
+
+1528221588 c:\users\rodrigo\desktop\aed-1\pilha_padrao\pilha_padrao.h
+
+1528243748 source:c:\users\rodrigo\desktop\aed-1\pilha_padrao\user.c
+	"Pilha_padrao.h"
+	<stdio.h>
+	<stdlib.h>
+
+1528915713 source:c:\users\rodrigo\desktop\aed-1\estático\pilha_padrao\user.c
+	"Pilha_padrao.h"
+	<stdio.h>
+	<stdlib.h>
+
+1528915414 c:\users\rodrigo\desktop\aed-1\estático\pilha_padrao\pilha_padrao.h
+
+1528916150 source:c:\users\rodrigo\desktop\aed-1\estático\pilha_padrao\pilha_padrao.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha_padrao.h"
+

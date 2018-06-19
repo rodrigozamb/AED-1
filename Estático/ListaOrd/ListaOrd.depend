@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1523962710 source:c:\users\rodrigo\desktop\aed-1\listaord\listaord.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaOrd.h"
+
+1523962709 c:\users\rodrigo\desktop\aed-1\listaord\listaord.h
+	"ListaOrd.h"
+
+1523962862 source:c:\users\rodrigo\desktop\aed-1\listaord\user.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaOrd.h"
+

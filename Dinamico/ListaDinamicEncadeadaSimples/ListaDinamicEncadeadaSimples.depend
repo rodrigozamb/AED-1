@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1525284598 source:c:\users\rodrigo\desktop\aed-1\listadinamicencadeadasimples\listadinamicencadeadasimples.c
+	"ListaDinamicEncadeadaSimples.h"
+	<stdio.h>
+	<stdlib.h>
+
+1525284598 c:\users\rodrigo\desktop\aed-1\listadinamicencadeadasimples\listadinamicencadeadasimples.h
+	"ListaDinamicEncadeadaSimples.h"
+	<stdio.h>
+
+1525284697 source:c:\users\rodrigo\desktop\aed-1\listadinamicencadeadasimples\user.c
+	"ListaDinamicEncadeadaSimples.h"
+	<stdio.h>
+	<stdlib.h>
+

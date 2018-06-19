@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1526155038 source:c:\users\rodrigo\desktop\aed-1\din_duplaenc\user.c
+	"Din_DuplaEnc.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526154993 c:\users\rodrigo\desktop\aed-1\din_duplaenc\din_duplaenc.h
+	"Din_DuplaEnc.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526155661 source:c:\users\rodrigo\desktop\aed-1\din_duplaenc\din_duplaenc.c
+	"Din_DuplaEnc.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526155882 source:c:\users\rodrigo\desktop\trabalho aed\ex7taed\din_duplaenc.c
+	"Din_DuplaEnc.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526155882 c:\users\rodrigo\desktop\trabalho aed\ex7taed\din_duplaenc.h
+	"Din_DuplaEnc.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526155882 source:c:\users\rodrigo\desktop\trabalho aed\ex7taed\user.c
+	"Din_DuplaEnc.h"
+	<stdio.h>
+	<stdlib.h>
+

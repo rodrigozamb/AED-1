@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525133772 source:c:\users\rodrigo\desktop\aed-1\list_din_ord\user.c
+	"List_din_ord.h"
+	<stdio.h>
+	<stdlib.h>
+
+1525133772 c:\users\rodrigo\desktop\aed-1\list_din_ord\list_din_ord.h
+	"List_din_ord.h"
+
+1525133772 source:c:\users\rodrigo\desktop\aed-1\list_din_ord\list_din_ord.c
+	"List_din_ord.h"
+	<stdio.h>
+	<stdlib.h>
+

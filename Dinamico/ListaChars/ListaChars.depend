@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1524056358 source:c:\users\rodrigo\desktop\aed-1\listachars\listachars.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaChars.h"
+
+1524054546 c:\users\rodrigo\desktop\aed-1\listachars\listachars.h
+	"ListaChars.h"
+
+1524056431 source:c:\users\rodrigo\desktop\aed-1\listachars\user.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaChars.h"
+

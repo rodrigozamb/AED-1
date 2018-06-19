@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1526255782 source:c:\users\rodrigo\desktop\trabalho aed\ex6taed\ex6taed.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex6TAED.h"
+
+1526094488 c:\users\rodrigo\desktop\trabalho aed\ex6taed\ex6taed.h
+	"Ex6TAED.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526255796 source:c:\users\rodrigo\desktop\trabalho aed\ex6taed\user.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex6TAED.h"
+
