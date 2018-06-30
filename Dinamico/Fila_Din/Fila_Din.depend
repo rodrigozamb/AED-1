@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1529674108 source:c:\users\rodrigo\desktop\aed-1\aed-1\dinamico\fila_din\fila_din.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila_Din.h"
+
+1529640289 c:\users\rodrigo\desktop\aed-1\aed-1\dinamico\fila_din\fila_din.h
+
+1529674053 source:c:\users\rodrigo\desktop\aed-1\aed-1\dinamico\fila_din\user.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila_Din.h"
+

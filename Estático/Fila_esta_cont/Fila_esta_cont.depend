@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1529634693 source:c:\users\rodrigo\desktop\aed-1\aed-1\estático\fila_esta_cont\fila_esta_cont.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila_esta_cont.h"
+
+1529633079 c:\users\rodrigo\desktop\aed-1\aed-1\estático\fila_esta_cont\fila_esta_cont.h
+	"Fila_esta_cont.h"
+
+1529634529 source:c:\users\rodrigo\desktop\aed-1\aed-1\estático\fila_esta_cont\user.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila_esta_cont.h"
+

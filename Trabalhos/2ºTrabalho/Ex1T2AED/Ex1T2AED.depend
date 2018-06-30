@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1530160968 source:c:\users\rodrigo\desktop\aed-1\aed-1\trabalhos\2ºtrabalho\ex1t2aed\ex1t2aed.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex1T2AED.h"
+
+1530106093 c:\users\rodrigo\desktop\aed-1\aed-1\trabalhos\2ºtrabalho\ex1t2aed\ex1t2aed.h
+
+1530161086 source:c:\users\rodrigo\desktop\aed-1\aed-1\trabalhos\2ºtrabalho\ex1t2aed\user.c
+	"Ex1T2AED.h"
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1529552291 source:c:\users\rodrigo\desktop\aed-1\aed-1\estático\filaestat\filaestat.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaEstat.h"
+
+1529551044 c:\users\rodrigo\desktop\aed-1\aed-1\estático\filaestat\filaestat.h
+
+1529552136 source:c:\users\rodrigo\desktop\aed-1\aed-1\estático\filaestat\user.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaEstat.h"
+
